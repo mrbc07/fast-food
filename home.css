@@ -1,0 +1,70 @@
+.Icon{
+    word-spacing: 30px;
+}
+.Icon,a:hover{
+    color: darkgoldenrod;
+}
+.head{
+    background-image:b ;
+}
+.text{
+    font-family:cursive;
+}
+.first-div{
+    display: flex;
+}
+.photo1{
+    height: 200px;
+    width: 190px;
+    border-radius: 100px;
+    border: 2px,solid yellow ;
+}
+.menue{
+    display: flex;
+    padding-left: 395px;
+    color: black;
+    
+}
+..menue:hover{
+    background-color: black;
+    color: #ffffff;
+}
+.photo2{
+    height: 200px;
+    width: 180px;
+    text-align: center;
+}
+.side{
+    word-spacing: 250px;
+}
+.buttn1{
+    text-align: center;
+    padding-left: 100px;
+}
+.second-div{
+    display: flex;
+    width: 100% ;
+}
+.photo3{
+    height: 400px;
+    width: 380px;
+}
+.icon2{
+    word-spacing: 10px;
+}
+.icon2, i:hover{
+    color: rgb(240, 218, 56);
+}
+.nav-top ,a:hover{
+    color: #f6f6f6;
+}
+.middle-bar{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.gap{
+    padding-left: 42px;
+}
+
+
